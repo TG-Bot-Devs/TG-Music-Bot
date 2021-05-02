@@ -16,12 +16,15 @@ Add me to your group and play music freely!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [[
-            InlineKeyboardButton("🛠 Source Code 🛠", url="https://github.com/ImJanindu/GroupMusicBot")
-            ],[
-            InlineKeyboardButton("💬 Group", url="https://t.me/InfinityBOTs_Support"),
-            InlineKeyboardButton("🔊 Channel", url="https://t.me/Infinity_BOTs")
-            ],[ 
             InlineKeyboardButton("➕ Add To Your Group ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true")
+            ],[
+            InlineKeyboardButton("💬 Group", url="https://t.me/"),
+            InlineKeyboardButton("Channel 📣", url="https://t.me/GROUPMUSICNEWS")
+            ],[
+            InlineKeyboardButton("🎛 Commands", url="https://t.me/InfinityBOTs_Support"),
+            InlineKeyboardButton("About👨🏻‍🎓", url="https://t.me/Infinity_BOTs")
+            ],[
+            InlineKeyboardButton("🌐 Website 🌐", url="https://t.ME/")
             ]]
         ),
         disable_web_page_preview=True
@@ -33,11 +36,10 @@ async def gstart(_, message: Message):
       reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Infinity_BOTs")
-                ]
+                    InlineKeyboardButton("Group", url="https://t.me/"),
+                    InlineKeyboardButton("Channel", url="httPS://T.ME/")
+                ]                
             ]
         )
-   )
 
 
