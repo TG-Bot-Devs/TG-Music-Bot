@@ -1,6 +1,6 @@
-TG Music Bot
+### TG Music Bot
 
-### A bot that can play music on telegram group's voice call
+##### A bot that can play music on telegram group's voice call
 
 ```
 Scrapped some code from @Infinity-Bots's Repository
