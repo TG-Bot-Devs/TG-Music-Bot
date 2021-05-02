@@ -12,7 +12,7 @@ async def start(_, message: Message):
 
 I can play music in your group's voice call. Developed by [Jason](https://t.me/ImJanindu).
 
-Add me to your group and play music freely!**
+Add me And @MusicPlugin to your group and play music freely!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [[
