@@ -40,7 +40,7 @@ License -> https://github.com/TG-Bot-Devs/TG-Bot-Devs/blob/main/LICENSE
 
 <p align="left">
   <a href="https://replit.com/@SpEcHiDe/GenerateStringSession">
-     <img height="30px" src="https://img.shields.io/badge/Repl%20It-blueviolet?style=flat-square&logo=appveyor">
+     <img height="30px" src="https://img.shields.io/badge/Repl%20It-blueviolet?style=for-the-badge&logo=repl">
   </a>
 
 Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session
