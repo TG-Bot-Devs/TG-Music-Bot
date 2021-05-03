@@ -42,4 +42,18 @@ async def gstart(_, message: Message):
             ]
         )
 
+@Client.on_message(filters.new_chat_members & filters.outgoing & filters.group)
+async def new_chat(client, message)
+    await client.reply_text(
+         text=f"""**❤️ Thanks for adding me to the group!**
 
+**Promote me as administrator of the group,** otherwise I will not be able to work properly.
+            """,
+            reply_markup=InlineKeyboardMarkup(
+            [
+                [
+                    InlineKeyboardButton("🎛Commands", url="https://t.me/"),
+                    InlineKeyboardButton("Channel📣", url="httPS://T.ME/")
+                ]                
+            ]
+        )
