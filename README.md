@@ -38,6 +38,11 @@ License -> https://github.com/TG-Bot-Devs/TG-Bot-Devs/blob/main/LICENSE
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
+<p align="left">
+  <a href="https://replit.com/@SpEcHiDe/GenerateStringSession">
+     <img height="30px" src="https://img.shields.io/badge/Repl%20It-blueviolet?style=flat-square&logo=appveyor">
+  </a>
+
 Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session
 
 ### Credits
