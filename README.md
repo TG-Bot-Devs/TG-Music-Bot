@@ -39,9 +39,9 @@ License -> https://github.com/TG-Bot-Devs/TG-Bot-Devs/blob/main/LICENSE
   </a>
 
 <p align="left">
-  <a href="https://replit.com/@SpEcHiDe/GenerateStringSession">
+  Use <a href="https://replit.com/@SpEcHiDe/GenerateStringSession">
      <img height="30px" src="https://img.shields.io/badge/Repl%20It-grey?style=for-the-badge&logo=repl">
- Use</a>to get pyrogram string session
+  </a>to get pyrogram string session
 
 ### Credits
  All Creadits [Here](https://telegra.ph/CREDITS-05-02)
