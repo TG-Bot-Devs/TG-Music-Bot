@@ -44,4 +44,6 @@ License -> https://github.com/TG-Bot-Devs/TG-Bot-Devs/blob/main/LICENSE
   </a>to get pyrogram string session
 
 ### Credits
- All Creadits [Here](https://telegra.ph/CREDITS-05-02)
+ All Credits [Here](https://telegra.ph/CREDITS-05-02)
+
+<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="NeonBotz/33" data-width="100%"></script>
